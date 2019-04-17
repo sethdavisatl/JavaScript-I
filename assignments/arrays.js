@@ -108,3 +108,8 @@ console.log(JSON.stringify(BMWAndAudi));
 
 
 
+//   let BMWAUDI = inventory.filter (function(make){
+//       return make.car_make === ("BMW" || "Audi");
+//   })
+//   console.log(JSON.stringify(BMWAUDI));  
+
